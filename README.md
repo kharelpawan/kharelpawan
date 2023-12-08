@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kharelpawan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently Working on MERN Stack
 - 💞️ I’m looking to collaborate on different Projects
 - 📫 How to reach me https://github.com/kharelpawan
