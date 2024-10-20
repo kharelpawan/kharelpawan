@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently Working on Web Dev and ML Projects
 - 💞️ I’m looking to collaborate on different Projects
-- 📫 How to reach me https://github.com/kharelpawan || kharelpawan.com.np
+- 📫 How to reach me https://github.com/kharelpawan || https://kharelpawan.com.np
